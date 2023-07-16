@@ -1,0 +1,30 @@
+{
+  "id": "4169527",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "24858707",
+      "name": "勾选 √",
+      "font_class": "Rrl_s_023",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "3069809",
+      "name": "交叉",
+      "font_class": "cross",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "791957",
+      "name": "状态钩钩",
+      "font_class": "zhuangtaigougou",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
